@@ -1,0 +1,9 @@
+Tasks:
+
+1) Configure project
+2) Create test main.jsp, test MainController
+3) Create hs_user table (id VARCHAR, login, pass, lvl INT, points INT, deck VARCHAR, vip TINYINT, class VARCHAR)
+4) Create hs_item table (id INT, picture, nameCreature, nameSpell, damage INT, hp INT, mana INT, primary_skill VARCHAR, secondary_skill VARCHAR, about)
+5) Create entities for those tables
+6) Create repositories
+7) Create services for most common operations
